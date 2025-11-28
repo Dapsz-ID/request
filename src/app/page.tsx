@@ -212,7 +212,7 @@ export default function Home() {
                           id="email"
                           name="email"
                           type="email"
-                          placeholder="nama@example.com"
+                          placeholder="nama@gmail.com"
                           value={formData.email}
                           onChange={handleInputChange}
                           required
